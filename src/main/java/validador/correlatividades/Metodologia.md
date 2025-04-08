@@ -35,5 +35,5 @@ El alumno solo sabe que materias tiene aprobadas, no conoce la relacion entre es
 
 Esta clase es la que posee la logica de validacion de correlatividades
 
-* En los test se cubre los 2 casos posibles, que la isncripcion sea válida (todas las correlativas estan aprobadas) o que sea invalida (cuando falta al menos una correlativa.)
+En los test se cubre los 2 casos posibles, que la isncripcion sea válida (todas las correlativas estan aprobadas) o que sea invalida (cuando falta al menos una correlativa.)
 
